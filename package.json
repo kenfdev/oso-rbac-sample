@@ -1,0 +1,22 @@
+{
+  "name": "oso-rbac-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenfdev/oso-rbac-sample.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kenfdev/oso-rbac-sample/issues"
+  },
+  "homepage": "https://github.com/kenfdev/oso-rbac-sample#readme",
+  "dependencies": {
+    "oso": "^0.20.1"
+  }
+}
